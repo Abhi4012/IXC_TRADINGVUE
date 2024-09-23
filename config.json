@@ -1,0 +1,10 @@
+{
+    "APCA-API-KEY-ID": "PKC6TNHTN5KVF3QIHB9V",
+    "APCA-API-SECRET-KEY": "GDAUYNG51Jy3GYkYPkLd2RvPRZ3i46mTCFvYMnqs",
+    "ticker": "",
+    "price": "",
+    "orderType": "market_order",
+    "timeInForce": "day",
+    "stopLossMargin": 0.2,
+    "takeProfitMargin": 0.2
+}
